@@ -1,0 +1,13 @@
+main {
+  width: 80%;
+  margin: 5% 10%;
+  text-align: center;
+}
+
+main section img{
+  width: 100%;
+}
+
+#tree2 {
+  display: none;
+}
